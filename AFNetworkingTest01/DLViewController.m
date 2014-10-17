@@ -26,6 +26,7 @@
 - (IBAction)toDownload:(id)sender {
 }
 
+-(void)requestSuccess{
 - (void)viewDidLoad
 {
     [super viewDidLoad];
